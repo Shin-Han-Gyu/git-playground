@@ -4,7 +4,7 @@ int main(){
 	int a = 1;
 	int b = 2;
 	printf("Hello World!\n");
-	printf("a + b = %d", (a + b));
+	printf("a + 2b = %d", (a + ( 2 * b));
 	return 0;
 }
 
